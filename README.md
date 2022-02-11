@@ -16,7 +16,7 @@ Thanks to the [sparse convolutions](https://nvidia.github.io/MinkowskiEngine/ove
 
 ## medical image segmentation
 
-| segmentation 1|segmentation 1|
+| segmentation 1|segmentation 2|
 | ------      | ------ |
 |[![segmentation](https://github.com/Jianningli/SparseCNN/blob/main/images/github4.png)] |  [![segmentation](https://github.com/Jianningli/SparseCNN/blob/main/images/github5.png)]|
 
