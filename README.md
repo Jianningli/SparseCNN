@@ -2,7 +2,7 @@
 
 Full texts including expeirments on other spatially sparse medical images can be found [here](https://www.techrxiv.org/articles/preprint/Sparse_Convolutional_Neural_Networks_for_Medical_Image_Analysis/19137518) (**Appendices C**)
 
-
+**Our work provides a practical solution to the curse of dimensionality in medical image analysis**
 
 
 ## skull shape completion and super-resolution
