@@ -26,38 +26,7 @@ Detailed workflow of using sparse neural nets in medical image segmentation can 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+To cite our work:
 
 ```Python
 @article{li2022sparsecnn,
