@@ -16,7 +16,7 @@ Thanks to the [sparse convolutions](https://nvidia.github.io/MinkowskiEngine/ove
 
 ## medical image segmentation
 
-Detailed workflow of using sparse neural nets in medical image segmentation can be found [here](https://www.techrxiv.org/articles/preprint/Sparse_Convolutional_Neural_Networks_for_Medical_Image_Analysis/19137518) (**Appendices C**).
+Detailed workflow of using sparse neural nets in medical image **segmentation** can be found [here](https://www.techrxiv.org/articles/preprint/Sparse_Convolutional_Neural_Networks_for_Medical_Image_Analysis/19137518) (**Appendices C**).
 
 
 | segmentation 1|segmentation 2|
