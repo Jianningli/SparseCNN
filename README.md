@@ -10,13 +10,15 @@ Thanks to the [sparse convolutions](https://nvidia.github.io/MinkowskiEngine/ove
 
 | shape completion (input-prediction-gt)|super-resolution (64-128-256-512)|
 | ------      | ------ |
-|[![Studierfenster](https://github.com/Jianningli/SparseCNN/blob/main/images/github1.png)] |  [![Skull Shape Reconstruction](https://github.com/Jianningli/SparseCNN/blob/main/images/github2.png)]|
+|[![skull shape completion](https://github.com/Jianningli/SparseCNN/blob/main/images/github1.png)] |  [![skull shape super-resolution](https://github.com/Jianningli/SparseCNN/blob/main/images/github2.png)]|
 
 
 
 ## medical image segmentation
 
-
+| segmentation 1|segmentation 1|
+| ------      | ------ |
+|[![segmentation](https://github.com/Jianningli/SparseCNN/blob/main/images/github4.png)] |  [![segmentation](https://github.com/Jianningli/SparseCNN/blob/main/images/github5.png)]|
 
 
 
