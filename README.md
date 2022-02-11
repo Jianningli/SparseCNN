@@ -8,7 +8,7 @@ Full texts including expeirments on other spatially sparse medical images can be
 ## skull shape completion and super-resolution
 thanks to the [sparse convolutions](https://nvidia.github.io/MinkowskiEngine/overview.html), the skull images can be trained at their full resolution (512x512xZ) for shape completion tasks. A super-resolution networ upsample a coarse image to higher resolution (e.g., 512x512xZ) and restore fine geometric details.
 
-| shape completion|super-resolution|
+| shape completion|super-resolution (64-128-256-512)|
 | ------      | ------ |
 |[![Studierfenster](https://github.com/Jianningli/SparseCNN/blob/main/images/github1.png)] |  [![Skull Shape Reconstruction](https://github.com/Jianningli/SparseCNN/blob/main/images/github2.png)]|
 
