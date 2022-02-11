@@ -2,7 +2,7 @@
 
 Full texts including expeirments on other spatially sparse medical images can be found [here](https://www.techrxiv.org/articles/preprint/Sparse_Convolutional_Neural_Networks_for_Medical_Image_Analysis/19137518) (**Appendices C**)
 
-**Our work describes a practical solution to the curse of dimensionality in medical image analysis. The proposed approach is particularly relevant if your GPU memory does not possess the capacity to process the medical images at their original resolution and/or the sluggish training prohibits efficient hyper-parameter tunning. Our work describes the utility of sparse convolutions in shape completion, super-resolution and segmentation tasks. Experiments show that the proposed method is able to process high-resolution medical images using moderate memory and at a high speed**
+**Our work describes a practical solution to the curse of dimensionality in medical image analysis. The proposed approach is particularly relevant if your GPU memory does not possess the capacity to process the medical images at their original resolution and/or the sluggish training prohibits efficient hyper-parameter tunning. Our work describes the utility of sparse convolutions in shape completion, super-resolution and segmentation tasks. Experiments show that the proposed method is able to process high-resolution medical images using moderate memory and at a high speed.**
 
 
 ## skull shape completion and super-resolution
@@ -15,6 +15,9 @@ Thanks to the [sparse convolutions](https://nvidia.github.io/MinkowskiEngine/ove
 
 
 ## medical image segmentation
+
+Detailed workflow of using sparse neural nets in medical image segmentation can be found [here](https://www.techrxiv.org/articles/preprint/Sparse_Convolutional_Neural_Networks_for_Medical_Image_Analysis/19137518) (**Appendices C**).
+
 
 | segmentation 1|segmentation 2|
 | ------      | ------ |
