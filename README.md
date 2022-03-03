@@ -1,8 +1,7 @@
-```
-Medical images are known to consume substantial amount of computational power due to their high resolutions, which restrict the application of deep learning in computation-constrained environment. We also observe that many types of medical images are spatially sparse. Therefore, by using standard dense implementation of convolutions, a lot of memory and computation is wasted on empty voxels, leading to low computation efficiency. However, computation efficiency has yet received adequate attention in medical image analysis. Improving the prediction accuracy is often the sole goal, neglecting the issues like high memory consumption and slow training.  Downsampling the images, dividing the images into smaller patches or extracting a bounding box of the region of interest are commonly used strategies for pre-processing high-resolution images. However, we show that these strategies are flawed and negatively affecting the results in some tasks like skull reconstruction.  We argue that it is beneficial to give the network a full-image context during training and the spatial sparsity of the medical images can be leveraged to reduce the memory consumption and speed up the training. 
-```
 
 ## Sparse Convolutional Neural Networks for Medical Image Analysis
+
+Check out the [**Motivation Letter**](https://dl.dropboxusercontent.com/s/2cit5cue7e1u557/notes.txt?dl=0)
 
 Check out the demonstration [**video**](https://www.techrxiv.org/articles/preprint/Sparse_Convolutional_Neural_Networks_for_Medical_Image_Analysis/19137518?file=34041689).
 
