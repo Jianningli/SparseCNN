@@ -1,7 +1,7 @@
 
 ## Sparse Convolutional Neural Networks for Medical Image Analysis
 
-Check out the [**Motivation Letter**](https://dl.dropboxusercontent.com/s/2cit5cue7e1u557/notes.txt?dl=0)
+Check out the [**Motivation Letter**](https://dl.dropboxusercontent.com/s/2cit5cue7e1u557/notes.txt?dl=0).
 
 Check out the demonstration [**video**](https://www.techrxiv.org/articles/preprint/Sparse_Convolutional_Neural_Networks_for_Medical_Image_Analysis/19137518?file=34041689).
 
