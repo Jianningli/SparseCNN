@@ -34,11 +34,11 @@ Detailed workflow of using sparse neural nets in medical image **segmentation** 
 To cite our work:
 
 ```
-@article{li2022sparsecnn,
+@article{li2022sparse,
   title={Sparse Convolutional Neural Networks for Medical Image Analysis},
-  author={Li, Jianning and Gsaxner, Christina and Pepe, Antonio and Schmalstieg, Dieter and Kleesiek, Jens},
-  journal={TechRxiv. Preprint.},
-  year={2022}
+  author={Li, Jianning and Gsaxner, Christina and Pepe, Antonio and Schmalstieg, Dieter and Kleesiek, Jens and Egger, Jan},
+  year={2022},
+  publisher={TechRxiv}
 }
 ```
 
