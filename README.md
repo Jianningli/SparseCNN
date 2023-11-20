@@ -11,7 +11,7 @@ Full texts (preprint) can be found [**HERE**](https://www.nature.com/articles/s4
 
 
 ## skull shape completion and super-resolution
-Thanks to [sparse convolutions](https://nvidia.github.io/MinkowskiEngine/overview.html), a deep neural net can be trained on full-resolution skull images (512x512xZ) for shape completion tasks. [Previous approaches](https://link.springer.com/book/10.1007%2F978-3-030-64327-0) use dense convolutions, so that the images have to be downsampled to fit in the GPU memory. A super-resolution network upsamples a coarse image to higher resolution (e.g., 512x512xZ) and restores its fine geometric details.
+Thanks to [sparse convolutions](https://nvidia.github.io/MinkowskiEngine/overview.html), a deep neural net can be trained on full-resolution skull images (512x512xZ) for shape completion and shape super-resolution tasks. [Previous approaches](https://ieeexplore.ieee.org/document/9420655) (or [this](https://www.sciencedirect.com/science/article/abs/pii/S1361841523001251)) use dense convolutions, so that the images have to be downsampled to fit in the GPU memory. A super-resolution network upsamples a coarse image to higher resolution (e.g., 512x512xZ) and restores its fine geometric details on the shape surface.
 
 | shape completion (input-prediction-gt)|super-resolution (64-128-256-512)|
 | ------      | ------ |
