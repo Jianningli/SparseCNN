@@ -1,11 +1,11 @@
 
-## Sparse Convolutional Neural Networks for Medical Image Analysis
+## [Sparse Convolutional Neural Networks for Medical Image Analysis](https://www.nature.com/articles/s41598-023-47437-6)
 
 Check out the [**Motivation Letter**](https://dl.dropboxusercontent.com/s/2cit5cue7e1u557/notes.txt?dl=0).
 
 Check out the demonstration [**video**](https://www.techrxiv.org/articles/preprint/Sparse_Convolutional_Neural_Networks_for_Medical_Image_Analysis/19137518?file=34041689).
 
-Full texts (preprint) can be found [**HERE**](https://www.techrxiv.org/articles/preprint/Sparse_Convolutional_Neural_Networks_for_Medical_Image_Analysis/19137518?file=34041698).
+Full texts (preprint) can be found [**HERE**](https://www.nature.com/articles/s41598-023-47437-6).
 
 **Our paper describes a practical solution to the curse of dimensionality in medical image analysis. The proposed approach is particularly relevant if your GPU memory does not possess the capacity to process the medical images at their original resolution and/or the sluggish training prohibits efficient hyper-parameter tunning. Our work describes the utility of sparse convolutions in shape completion, super-resolution and segmentation tasks. Experiments show that the proposed method is able to process high-resolution medical images using moderate memory and at a high speed.**
 
