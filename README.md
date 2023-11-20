@@ -1,5 +1,5 @@
 
-## [Sparse Convolutional Neural Networks for Medical Image Analysis](https://www.nature.com/articles/s41598-023-47437-6)
+## [Sparse convolutional neural network for high-resolution skull shape completion and shape super-resolution](https://www.nature.com/articles/s41598-023-47437-6)
 
 Check out the [**Motivation Letter**](https://dl.dropboxusercontent.com/s/2cit5cue7e1u557/notes.txt?dl=0).
 
